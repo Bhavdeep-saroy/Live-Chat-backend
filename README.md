@@ -1,7 +1,10 @@
 Live Chat Application Backend
+
+
 This is the backend of a Live Chat Application built using Nginx. The backend leverages various tools and libraries to ensure robust functionality, high performance, and user security. Below is an overview of the key technologies and features implemented in this project:
 
 Key Features and Tools Used
+
 Real-Time Communication:
 
 Used Socket.IO for real-time, bidirectional communication between users in the chat application.
